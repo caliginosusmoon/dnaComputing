@@ -1,0 +1,6 @@
+UserCount,AverageEncryptionTime(ms),AverageDecryptionTime(ms)
+50,18401,24112
+100,5574,5194
+200,2546,3624
+500,1968,2636
+1000,2407,3390
